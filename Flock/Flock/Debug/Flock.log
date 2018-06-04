@@ -1,0 +1,28 @@
+﻿  Source.cpp
+c:\users\patri\source\repos\flock\flock\boid.h(105): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\patri\source\repos\flock\flock\boid.h(114): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\patri\source\repos\flock\flock\boid.h(149): warning C4018: '<': signed/unsigned mismatch
+c:\users\patri\source\repos\flock\flock\boid.h(182): warning C4018: '<': signed/unsigned mismatch
+c:\users\patri\source\repos\flock\flock\boid.h(215): warning C4018: '<': signed/unsigned mismatch
+c:\users\patri\source\repos\flock\flock\boid.h(274): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\patri\source\repos\flock\flock\boidsystem.h(33): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\patri\source\repos\flock\flock\boidsystem.h(49): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\patri\source\repos\flock\flock\boidsystem.h(68): warning C4018: '<': signed/unsigned mismatch
+c:\users\patri\source\repos\flock\flock\boidsystem.h(77): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\patri\source\repos\flock\flock\boidsystem.h(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\patri\source\repos\flock\flock\boidsystem.h(91): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\patri\source\repos\flock\flock\boidsystem.h(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\patri\source\repos\flock\flock\boidsystem.h(105): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\patri\source\repos\flock\flock\boidsystem.h(120): warning C4018: '<': signed/unsigned mismatch
+c:\users\patri\source\repos\flock\flock\boidsystem.h(130): warning C4018: '<': signed/unsigned mismatch
+c:\users\patri\source\repos\flock\flock\boidsystem.h(140): warning C4018: '<': signed/unsigned mismatch
+c:\users\patri\source\repos\flock\flock\boidsystem.h(170): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\patri\source\repos\flock\flock\boidsystem.h(178): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\patri\source\repos\flock\flock\boidsystem.h(182): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\patri\source\repos\flock\flock\source.cpp(84): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\patri\source\repos\flock\flock\source.cpp(137): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\patri\source\repos\flock\flock\source.cpp(149): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\patri\source\repos\flock\flock\source.cpp(253): warning C4018: '<': signed/unsigned mismatch
+c:\users\patri\source\repos\flock\flock\source.cpp(268): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\patri\source\repos\flock\flock\source.cpp(277): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Flock.vcxproj -> C:\Users\patri\source\repos\Flock\Debug\Flock.exe
